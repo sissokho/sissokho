@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**sissokho/sissokho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👨‍💻 About me
 
-Here are some ideas to get you started:
+I'm Moustapha, a web developer from Thiès, Senegal 🇸🇳.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ I love learning new things, reading blog posts and browsing tech twitter.
+- 🔭 I’m currently working on my portfolio website.
+- 🌱 I’m currently learning about testing and TDD with PHPUnit.
+- 🤔 What I want to learn next: Vue.js
+- 📫 How to reach me: send me an email at siskomouhamed@gmail.com or contact me via my [linkedin profile](https://www.linkedin.com/in/mouhamadou-moustapha-sissokho-548a55125/) 
+- 😄 Pronouns: he/him/his
+
+#### 🔧 Tools I mostly use
+
+- Laravel
+- Livewire
+- Tailwind CSS
+- Alpine.js
