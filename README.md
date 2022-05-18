@@ -17,3 +17,4 @@ I'm Moustapha, a web developer from Thiès, Senegal 🇸🇳.
 - Livewire
 - Tailwind CSS
 - Alpine.js
+- Jigsaw
