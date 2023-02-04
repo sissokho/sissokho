@@ -2,7 +2,9 @@
 
 ## Laravel Developer
 
-I have been coding professionaly for 4+ years. Currently i am working as a part-time developer in a research project called [Check4Decision](https://check4decision.uvs.sn). My main task is to maitain their news search engine that i have built.
+I have been coding professionaly for 4+ years. Currently i am working as a part-time developer in a research project called [Check4Decision](https://check4decision.uvs.sn). My main task is to maitain their news search engine that i have built. 
+
+I work mainly with the TALL Stack ([Tailwind CSS](https://tailwindcss.com) / [Alpine.js](https://alpinejs.dev) / [Laravel](https://laravel.com) / [Livewire](https://laravel-livewire.com)). I do also use [Jigsaw](https://jigsaw.tighten.com) for static sites & [Filament](https://filamentphp.com).
 
 - 🌍  I'm based in Senegal
 - 🖥️  See my portfolio at [https://sissokho.netlify.app](https://sissokho.netlify.app)
