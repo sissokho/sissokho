@@ -1,17 +1,21 @@
-### Hi there 👋
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mouhamadou Moustapha
 
-#### 👨‍💻 About me
+## Laravel Developer
 
-I'm Moustapha, a web developer from Thiès, Senegal 🇸🇳.
+I have been coding professionaly for 4+ years. Currently i am working as a part-time developer in a research project called [Check4Decision](https://check4decision.uvs.sn). My main task is to maitain their news search engine that i have built.
 
-- ❤️ I love learning new things, reading blog posts and browsing tech twitter.
-- 🔭 I’m currently maintaining the Check4Decision's [news search engine](https://check4decision.uvs.sn/search/) codebase.
-- 📫 How to reach me: send me an email at siskomouhamed@gmail.com or contact me via my [linkedin profile](https://www.linkedin.com/in/sissokho) 
+- 🌍  I'm based in Senegal
+- 🖥️  See my portfolio at [https://sissokho.netlify.app](https://sissokho.netlify.app)
+- ✉️  You can contact me at [siskomouhamed@gmail.com](mailto:siskomouhamed@gmail.com)
+- 🚀  I'm currently working on the [Check4Decision's news search engine](https://check4decision.uvs.sn/search)
+- 🧠  I'm learning Test Driven Development with PHPUnit
+- 🤝  I'm open to collaborating on interesting projects using the TALL Stack or Filament
 
-#### 🔧 Tools I mostly use
+### Skills
 
-- Laravel
-- Livewire
-- Tailwind CSS
-- Alpine.js
-- Jigsaw
+<p align="left">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a></p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/sissokho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sissokho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mm_sissokho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
