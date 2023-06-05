@@ -10,7 +10,7 @@ I work mainly with the TALL Stack ([Tailwind CSS](https://tailwindcss.com) / [Al
 - 🖥️  See my portfolio at [https://sissokho.netlify.app](https://sissokho.netlify.app)
 - ✉️  You can contact me at [siskomouhamed@gmail.com](mailto:siskomouhamed@gmail.com)
 - 🚀  I'm currently looking for a new role
-- 🧠  I'm learning Test Driven Development with PHPUnit
+- 🧠  I'm learning Vue.js
 - 🤝  I'm open to collaborating on interesting projects using the TALL Stack
 
 ### Skills
