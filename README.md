@@ -2,7 +2,7 @@
 
 ## Laravel Developer
 
-I have been coding professionaly for 3+ years. I previously worked as a part-time developer in a research project called [Check4Decision](https://check4decision.uvs.sn). My main task was to maitain their news search engine that i had built. 
+I have been coding professionaly for 3+ years. I previously worked as a part-time developer in a research project called [Check4Decision](https://check4decision.uvs.sn). My main task was to maintain their news search engine that i had built. 
 
 I work mainly with the TALL Stack ([Tailwind CSS](https://tailwindcss.com) / [Alpine.js](https://alpinejs.dev) / [Laravel](https://laravel.com) / [Livewire](https://laravel-livewire.com)). I do also use [Jigsaw](https://jigsaw.tighten.com) for static sites.
 
