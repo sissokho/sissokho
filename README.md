@@ -9,7 +9,6 @@ I work mainly with the TALL Stack ([Tailwind CSS](https://tailwindcss.com) / [Al
 - 🌍  I'm based in Senegal
 - ✉️  You can contact me at [siskomouhamed@gmail.com](mailto:siskomouhamed@gmail.com)
 - 🚀  I'm currently looking for a new role
-- 🧠  I'm learning Vue.js
 - 🤝  I'm open to collaborating on interesting projects using the TALL Stack
 
 ### Skills
